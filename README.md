@@ -1,14 +1,4 @@
-# musa-salami.github.io
-musa-salami.github.io/
-├── index.md
-├── _config.yml
-├── assets/
-│   └── CV_Musa_v3.pdf
-├── profile.jpg (your photo)
----
-layout: default
-title: "Musa Ismaila Salami"
----
+
 
 ![Profile Picture](profile.jpg)
 
@@ -92,6 +82,6 @@ Feel free to contact me or view my profiles:
 ---
 title: "Musa Ismaila Salami"
 description: "PhD Researcher | Quantum Sensing | 2D Materials | Morgan State University"
-theme: minima
+
 
 
